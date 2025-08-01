@@ -1,0 +1,345 @@
+{
+  "storys": [
+    {
+      "id": 1,
+      "image": "/images/story-1.jpeg",
+      "description": "مشاوره خرید موبایل و کالای الکترونیک"
+    },
+    {
+      "id": 2,
+      "image": "/images/story-2.jpeg",
+      "description": "مشاوره خرید کالای الکترونیک"
+    },
+    {
+      "id": 3,
+      "image": "/images/story-3.jpg",
+      "description": "قاتل پرچم دار واقعی 👌"
+    },
+    {
+      "id": 4,
+      "image": "/images/story-4.jpg",
+      "description": "بررسی هدفون‌های جدید QCY"
+    },
+    {
+      "id": 5,
+      "image": "/images/story-5.jpg",
+      "description": "برسی اپل واچ سری 9 se"
+    },
+    {
+      "id": 6,
+      "image": "/images/story-6.jpg",
+      "description": "شبیه رینگ هفت پر"
+    },
+    {
+      "id": 7,
+      "image": "/images/story-7.jpg",
+      "description": "هدست همه کاره ☠️"
+    },
+    {
+      "id": 8,
+      "image": "/images/story-8.jpg",
+      "description": "چافو تاشو سفری"
+    },
+    {
+      "id": 9,
+      "image": "/images/story-9.jpg",
+      "description": "پیچ‌گوشتی ساعتی"
+    },
+    {
+      "id": 10,
+      "image": "/images/story-10.jpg",
+      "description": "ماگِ GOT!"
+    },
+    {
+      "id": 11,
+      "image": "/images/story-11.jpg",
+      "description": "رابط شارژ کپسول استوانه‌ای"
+    },
+    {
+      "id": 12,
+      "image": "/images/story-12.jpg",
+      "description": "با این قیمت 🤦🏻 !؟"
+    },
+    {
+      "id": 13,
+      "image": "/images/story-13.jpg",
+      "description": "باید باهاش کنار بیای..!!"
+    },
+    {
+      "id": 14,
+      "image": "/images/story-14.jpg",
+      "description": "گلدن فيش🐟"
+    },
+    {
+      "id": 15,
+      "image": "/images/story-15.jpg",
+      "description": "معرفی و بررسی بازی Battlefield V"
+    }
+  ],
+  "specials": [
+    {
+      "id": 1,
+      "image": "/images/special-1.jpg",
+      "percentage": "۴٪",
+      "description": "گوشی موبایل شیائومی مدل Poco F6 Pro دو سیم کارت ظرفیت 1 ترابایت و رم 16 گیگابایت - پک گلوبال",
+      "price": "۴۵,۹۹۹,۰۰۰",
+      "priceLogo": " تومان",
+      "discountedPrice": "۴۸,۰۰۰,۰۰۰"
+    },
+    {
+      "id": 2,
+      "image": "/images/special-2.jpg",
+      "percentage": "۹٪",
+      "description": "هدفون بلوتوثی کیو سی وای مدل Ailypods Neo",
+      "price": "۹۹۹,۰۰۰",
+      "priceLogo": " تومان",
+      "discountedPrice": "۱,۱۰۰,۰۰۰"
+    },
+    {
+      "id": 3,
+      "image": "/images/special-3.jpg",
+      "percentage": "۷٪",
+      "description": "ساعت هوشمند گلوریمی مدل M2 MAX",
+      "price": "۳,۸۹۹,۰۰۰",
+      "priceLogo": " تومان",
+      "discountedPrice": "۴,۲۰۰,۰۰۰"
+    },
+    {
+      "id": 4,
+      "image": "/images/special-4.jpg",
+      "percentage": "۴۴٪",
+      "description": "اسپیکر بلوتوثی قابل حمل کلومن مدل KS-150 KARAOKE",
+      "price": "۲,۳۴۹,۰۰۰",
+      "priceLogo": " تومان",
+      "discountedPrice": "۴,۲۰۰,۰۰۰"
+    },
+    {
+      "id": 5,
+      "image": "/images/special-5.jpg",
+      "percentage": "۲۴٪",
+      "description": "اسپیکر بلوتوثی قابل حمل هیسکا مدل B175",
+      "price": "۶,۷۰۰,۰۰۰",
+      "priceLogo": " تومان",
+      "discountedPrice": "۸,۸۵۰,۰۰۰"
+    },
+    {
+      "id": 6,
+      "image": "/images/special-6.jpg",
+      "percentage": "۲۱٪",
+      "description": "بازی فکری جنگا",
+      "price": "۵۵۰,۰۰۰",
+      "priceLogo": " تومان",
+      "discountedPrice": "۶۹۵,۰۰۰"
+    },
+    {
+      "id": 7,
+      "image": "/images/special-7.jpg",
+      "percentage": "۳۲٪",
+      "description": "لامپ 12 وات نوردلایت مدل حبابی پایه E27 مجموعه دو عددی",
+      "price": "۴۹,۰۰۰",
+      "priceLogo": " تومان",
+      "discountedPrice": "۷۲,۰۰۰"
+    },
+    {
+      "id": 8,
+      "image": "/images/special-8.jpg",
+      "percentage": "۸۹٪",
+      "description": "قرص پرفکت بیوتی  بسته 60 عددی",
+      "price": "۵۵,۰۰۰",
+      "priceLogo": " تومان",
+      "discountedPrice": "۵۲۳,۲۰۰"
+    },
+    {
+      "id": 9,
+      "image": "/images/special-9.jpg",
+      "percentage": "۹٪",
+      "description": "سرخ کن بدون روغن فیلیپس مدل NA322",
+      "price": "۷,۷۹۰,۰۰۰",
+      "priceLogo": " تومان",
+      "discountedPrice": "۷,۰۸۸,۹۰۰"
+    },
+    {
+      "id": 10,
+      "image": "/images/special-10.jpg",
+      "percentage": "۴٪",
+      "description": "لوستر شاهان تک مدل مدرن c50",
+      "price": "۱,۷۹۹,۰۰۰",
+      "priceLogo": " تومان",
+      "discountedPrice": "۱,۷۲۷,۰۴۰"
+    },
+    {
+      "id": 11,
+      "image": "/images/special-11.jpg",
+      "percentage": "۲۲٪",
+      "description": "لوستر ام کی ای لایتینگ مدل مدرن کد Ringo-s-gy60",
+      "price": "۲,۴۹۹,۰۰۰",
+      "priceLogo": " تومان",
+      "discountedPrice": "۳,۲۰۰,۰۰۰"
+    },
+    {
+      "id": 12,
+      "image": "/images/special-12.jpg",
+      "percentage": "۳۷٪",
+      "description": "پاوربانک ریمکس مدل RPP-72 ظرفیت 20000 میلی آمپر ساعت",
+      "price": "۱,۲۴۹,۰۰۰",
+      "priceLogo": " تومان",
+      "discountedPrice": "۱,۹۹۰,۰۰۰"
+    }
+  ],
+  "offer": [
+    {
+      "id": 1,
+      "title": "گوشی موبایل",
+      "description": "بر اساس سلیقه شما",
+      "item": [
+        {
+          "image": "/images/offer-1.jpg"
+        },
+        {
+          "image": "/images/offer-2.jpg"
+        },
+        {
+          "image": "/images/offer-3.jpg"
+        },
+        {
+          "image": "/images/offer-4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "کیف و کاور گوشی",
+      "description": "بر اساس سلیقه شما",
+      "item": [
+        {
+          "image": "/images/offer-5.jpg"
+        },
+        {
+          "image": "/images/offer-6.jpg"
+        },
+        {
+          "image": "/images/offer-7.jpg"
+        },
+        {
+          "image": "/images/offer-8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "هدفون، هدست و هندزفری",
+      "description": "بر اساس سلیقه شما",
+      "item": [
+        {
+          "image": "/images/offer-9.jpg"
+        },
+        {
+          "image": "/images/offer-10.jpg"
+        },
+        {
+          "image": "/images/offer-11.jpg"
+        },
+        {
+          "image": "/images/offer-12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "جوراب مردانه",
+      "description": "بر اساس سلیقه شما",
+      "item": [
+        {
+          "image": "/images/offer-13.jpg"
+        },
+        {
+          "image": "/images/offer-14.jpg"
+        },
+        {
+          "image": "/images/offer-15.jpg"
+        },
+        {
+          "image": "/images/offer-16.jpg"
+        }
+      ]
+    }
+  ],
+  "offerTwo": [
+    {
+      "id": 1,
+      "title": "ساعت هوشمند",
+      "description": "بر اساس سلیقه شما",
+      "item": [
+        {
+          "image": "/images/offer-17.jpg"
+        },
+        {
+          "image": "/images/offer-18.jpg"
+        },
+        {
+          "image": "/images/offer-19.jpg"
+        },
+        {
+          "image": "/images/offer-20.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "لپ تاپ و الترابوک",
+      "description": "بر اساس سلیقه شما",
+      "item": [
+        {
+          "image": "/images/offer-21.jpg"
+        },
+        {
+          "image": "/images/offer-22.jpg"
+        },
+        {
+          "image": "/images/offer-23.jpg"
+        },
+        {
+          "image": "/images/offer-24.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "اسپیکر (بلندگو)",
+      "description": "بر اساس سلیقه شما",
+      "item": [
+        {
+          "image": "/images/offer-25.jpg"
+        },
+        {
+          "image": "/images/offer-26.jpg"
+        },
+        {
+          "image": "/images/offer-27.jpg"
+        },
+        {
+          "image": "/images/offer-28.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "ساعت عقربه ای مردانه",
+      "description": "بر اساس سلیقه شما",
+      "item": [
+        {
+          "image": "/images/offer-29.jpg"
+        },
+        {
+          "image": "/images/offer-30.jpg"
+        },
+        {
+          "image": "/images/offer-31.jpg"
+        },
+        {
+          "image": "/images/offer-32.jpg"
+        }
+      ]
+    }
+  ]
+}
